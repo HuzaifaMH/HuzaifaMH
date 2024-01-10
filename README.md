@@ -1,4 +1,4 @@
-ABOUT ME
+About Me
 - 👋 Hello, I’m Mohammed Huzaifa
 - 🌐I’m a Tech Enthusiast.
 - 🎓Currently pursuing Electronics and Communication Engineering with Minor Degree in Artificial Intelligence and Data Science.
@@ -6,15 +6,14 @@ ABOUT ME
 - 💻 Passionate Software Developer.
 
 
-- Proficiency :
+Proficiency :
 - Programming Languages [C/C++, Python (Advanced), Java (Intermediate)]
 - MySQL, MongoDB, PostgreSQL, Pandas
 - Machine Learning
 - Web Development [Front-End]
 
 
--  Let's Connect!
-
+Let's Connect!
 - 📫 [Email](mailto:mohammedhuzaifa284@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammedhuzaifamh)
 <!---
