@@ -16,6 +16,8 @@ Proficiency :
 Let's Connect!
 - 📫 [Email](mailto:mohammedhuzaifa284@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammedhuzaifamh)
+
+Thanks for checking out my GitHub profile! Let's connect and collaborate on exciting projects.
 <!---
 HuzaifaMH/HuzaifaMH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
