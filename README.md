@@ -7,10 +7,10 @@ About Me
 
 
 Proficiency :
-- Programming Languages [C/C++, Python (Advanced), Java (Intermediate)]
-- MySQL, MongoDB, PostgreSQL, Pandas
-- Machine Learning
-- Web Development [Front-End]
+- Programming Languages [C/C++, Python (Advanced), Java (Intermediate)].
+- MySQL, MongoDB, PostgreSQL, Pandas, Matplotlib, Plotly.
+- Machine Learning concepts.
+- Web Development [Front-End].
 
 
 Let's Connect!
