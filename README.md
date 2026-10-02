@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Huzaifa 👋
 
-**Full Stack Engineer** — Go (primary) · Java · .NET · Angular
+**Full Stack Engineer** — Go · Java · .NET · Angular
 Building scalable, event-driven microservices and distributed systems with gRPC, NATS JetStream, AWS, and cloud-native tooling.
 
 📍 Chennai, India &nbsp;|&nbsp; 🎓 B.E. Electronics & Communication Engineering (Minor: AI & Data Science) &nbsp;|&nbsp; 💼 Open to Full Stack / Backend / Golang Developer roles
